@@ -1,0 +1,20 @@
+﻿<Page x:Class="BankManage.help"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:BankManage"
+      mc:Ignorable="d" 
+      d:DesignHeight="400" d:DesignWidth="400"
+      Title="help" >
+
+    <Grid>
+        <Label Content="系统名称：银行管理系统" HorizontalAlignment="Left" Margin="48,60,0,0" VerticalAlignment="Top" Width="205"/>
+        <Label Content="支持功能：用户开户转账，基本的存取款，银行职员管理" HorizontalAlignment="Left" Margin="48,90,0,0" VerticalAlignment="Top"/>
+        <Label Content="技术支持：member-1、me、member-2、member-3" HorizontalAlignment="Left" Margin="48,120,0,0" VerticalAlignment="Top" Height="26" Width="238" RenderTransformOrigin="0.489,-0.412"/>
+        <Button Content="检查更新" HorizontalAlignment="Left" Margin="48,290,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <Button Content="更多" HorizontalAlignment="Left" Margin="305,123,0,0" VerticalAlignment="Top" Width="53" Height="23" Click="Button_Click_1"/>
+        <Label Content="常见问题：&#xD;&#xA;1.忘记密码。登陆界面通过密保问题可修改密码   &#xD;&#xA;2.查找交易记录。可通过当日汇总或交易汇总查询&#xD;&#xA;3……&#xD;&#xA;如您有其他问题，欢迎您将意见反馈给我们！    &#xD;&#xA;感谢您的使用       " HorizontalAlignment="Left" Margin="48,151,0,0" VerticalAlignment="Top" Height="107" Width="310"/>
+
+    </Grid>
+</Page>

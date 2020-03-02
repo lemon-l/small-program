@@ -1,0 +1,36 @@
+﻿<Page x:Class="BankManage.employee.EmployeeBase"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="500" d:DesignWidth="700"
+	Title="EmployeeBase">
+
+    <Grid>
+        <StackPanel HorizontalAlignment="Left" Height="258" Margin="10,0,0,0" VerticalAlignment="Top" Width="542">
+            <DataGrid AutoGenerateColumns="False" x:Name="datagrid"  CanUserAddRows="False" CanUserDeleteRows="False" Height="421" VerticalAlignment="Top" Margin="0,0,-90,0" HorizontalAlignment="Left" Width="632" >
+                <DataGrid.Background>
+                    <SolidColorBrush Color="#FFF0F0F0" Opacity="0"/>
+                </DataGrid.Background>
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="姓名" Binding="{Binding EmployeeName}" Width="60"/>
+                    <DataGridTextColumn Header="性别" Binding="{Binding sex}" Width="60"/>
+                    <DataGridTextColumn Header="工作时间" Binding="{Binding workDate}" Width="80" />
+                    <DataGridTextColumn Header="手机号码" Binding="{Binding telphone}" Width="80" />
+                    <DataGridTextColumn Header="员工证件" Binding="{Binding idCard}" Width="80" />
+                    <DataGridTextColumn Header="照片" Binding="{Binding photo}" Width="Auto" />
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+        <StackPanel HorizontalAlignment="Left" Height="35" Margin="190,171,0,0" VerticalAlignment="Top" Width="133">
+            <Button Content="增加" Height="24" Margin="-100,5,133.667,0" Click="Button_Click" />
+        </StackPanel>
+        <StackPanel HorizontalAlignment="Left" Height="49" Margin="280,157,0,0" VerticalAlignment="Top" Width="146">
+            <Button Content="删除" Height="24" Margin="10,20,28,0" Click="click2"/>
+        </StackPanel>
+       <Button Content="刷新" HorizontalAlignment="Left" Margin="374,288,0,0" VerticalAlignment="Top" Width="97" Height="25" Click="Button_Click_1"/>
+
+
+    </Grid>
+</Page>

@@ -1,0 +1,7 @@
+G:\我的代码\网络应用编程\Network adapter information\Network adapter information\obj\Debug\Network adapter information.csprojAssemblyReference.cache
+G:\我的代码\网络应用编程\Network adapter information\Network adapter information\obj\Debug\Network adapter information.csproj.CoreCompileInputs.cache
+G:\我的代码\网络应用编程\Network adapter information\Network adapter information\bin\Debug\Network adapter information.exe.config
+G:\我的代码\网络应用编程\Network adapter information\Network adapter information\bin\Debug\Network adapter information.exe
+G:\我的代码\网络应用编程\Network adapter information\Network adapter information\bin\Debug\Network adapter information.pdb
+G:\我的代码\网络应用编程\Network adapter information\Network adapter information\obj\Debug\Network adapter information.exe
+G:\我的代码\网络应用编程\Network adapter information\Network adapter information\obj\Debug\Network adapter information.pdb
