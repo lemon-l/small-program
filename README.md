@@ -1,4 +1,5 @@
 # small-program
+@[toc]
 ### [Final-Assignment](https://github.com/lemon-l/small-program/tree/master/Final-Assignment)
 | 成员     |                      实现功能                      |
 | -------- | :------------------------------------------------: |
