@@ -23,3 +23,8 @@ IP地址解析：在规定范围内遍历IP地址，记录扫描用时，获取�
 ### [Task Manager](https://github.com/lemon-l/small-program/tree/master/Task%20Manager)
 简单的任务管理器，获取进程的ID、名称、启动时间、内存分配、打开的句柄数、是否响应等信息；还可以结束相应的进程。
 <div align="center"><img width="400" height="250" src="https://ftp.bmp.ovh/imgs/2020/03/fb7fa8600f7ec5ca.png"></div>
+
+### [Multi thread](https://github.com/lemon-l/small-program/tree/master/Multi%20thread)
+多线程解析IP地址
+<div align="center"><img width="400" height="200" src="https://ftp.bmp.ovh/imgs/2020/03/cea104711ae27366.png"></div>
+
