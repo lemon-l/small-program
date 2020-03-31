@@ -1,0 +1,15 @@
+G:\我的代码\网络应用编程\Encode and  Decode\Encode and  Decode\bin\Debug\Encode and  Decode.exe.config
+G:\我的代码\网络应用编程\Encode and  Decode\Encode and  Decode\bin\Debug\Encode and  Decode.exe
+G:\我的代码\网络应用编程\Encode and  Decode\Encode and  Decode\bin\Debug\Encode and  Decode.pdb
+G:\我的代码\网络应用编程\Encode and  Decode\Encode and  Decode\obj\Debug\Encode and  Decode.csprojAssemblyReference.cache
+G:\我的代码\网络应用编程\Encode and  Decode\Encode and  Decode\obj\Debug\MainWindow.g.cs
+G:\我的代码\网络应用编程\Encode and  Decode\Encode and  Decode\obj\Debug\App.g.cs
+G:\我的代码\网络应用编程\Encode and  Decode\Encode and  Decode\obj\Debug\Encode and  Decode_MarkupCompile.cache
+G:\我的代码\网络应用编程\Encode and  Decode\Encode and  Decode\obj\Debug\Encode and  Decode_MarkupCompile.lref
+G:\我的代码\网络应用编程\Encode and  Decode\Encode and  Decode\obj\Debug\MainWindow.baml
+G:\我的代码\网络应用编程\Encode and  Decode\Encode and  Decode\obj\Debug\Encode and  Decode.g.resources
+G:\我的代码\网络应用编程\Encode and  Decode\Encode and  Decode\obj\Debug\Encode_and__Decode.Properties.Resources.resources
+G:\我的代码\网络应用编程\Encode and  Decode\Encode and  Decode\obj\Debug\Encode and  Decode.csproj.GenerateResource.cache
+G:\我的代码\网络应用编程\Encode and  Decode\Encode and  Decode\obj\Debug\Encode and  Decode.csproj.CoreCompileInputs.cache
+G:\我的代码\网络应用编程\Encode and  Decode\Encode and  Decode\obj\Debug\Encode and  Decode.exe
+G:\我的代码\网络应用编程\Encode and  Decode\Encode and  Decode\obj\Debug\Encode and  Decode.pdb
