@@ -1,0 +1,7 @@
+G:\我的代码\网络应用编程\FileStream\FileStream\bin\Debug\FileStream.exe.config
+G:\我的代码\网络应用编程\FileStream\FileStream\bin\Debug\FileStream.exe
+G:\我的代码\网络应用编程\FileStream\FileStream\bin\Debug\FileStream.pdb
+G:\我的代码\网络应用编程\FileStream\FileStream\obj\Debug\FileStream.csprojAssemblyReference.cache
+G:\我的代码\网络应用编程\FileStream\FileStream\obj\Debug\FileStream.csproj.CoreCompileInputs.cache
+G:\我的代码\网络应用编程\FileStream\FileStream\obj\Debug\FileStream.exe
+G:\我的代码\网络应用编程\FileStream\FileStream\obj\Debug\FileStream.pdb
