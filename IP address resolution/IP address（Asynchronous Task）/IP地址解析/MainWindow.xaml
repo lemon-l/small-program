@@ -1,0 +1,27 @@
+﻿<Window x:Class="IP地址解析.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IP地址解析"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <GroupBox Header="扫描的IP地址范围" HorizontalAlignment="Left" Height="100" Margin="10,10,0,0" VerticalAlignment="Top" Width="774">
+            <Grid HorizontalAlignment="Left" Height="65" Margin="0,10,-2.4,0" VerticalAlignment="Top" Width="764">
+                <Label Content="地址前缀 ：" HorizontalAlignment="Left" Margin="10,23,0,0" VerticalAlignment="Top"/>
+                <TextBox x:Name="former" HorizontalAlignment="Left" Height="23" Margin="84,23,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+                <Label Content="起始值 ：" HorizontalAlignment="Left" Margin="237,23,0,0" VerticalAlignment="Top"/>
+                <TextBox x:Name="start" HorizontalAlignment="Left" Height="23" Margin="303,23,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+                <Label Content="终止值 ：" HorizontalAlignment="Left" Margin="460,23,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.25,0.589"/>
+                <TextBox x:Name="end" HorizontalAlignment="Left" Height="23" Margin="526,23,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" TextChanged="End_TextChanged"/>
+                <Button x:Name="button" Content="开始扫描" HorizontalAlignment="Left" Margin="668,26,0,0" VerticalAlignment="Top" Width="75" BorderBrush="#FF253A3A" Background="#FFFDF6F6" Click="Button_Click" />
+            </Grid>
+        </GroupBox>
+        <GroupBox Header="扫描信息" HorizontalAlignment="Left" Height="163" Margin="10,234,0,0" VerticalAlignment="Top" Width="774">
+            <TextBox x:Name="showResult" HorizontalAlignment="Left" Height="129" Margin="4,8,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="754"/>
+        </GroupBox>
+        <Label x:Name="check" Content="" HorizontalContentAlignment="Center" Margin="10,153,0,0" VerticalAlignment="Top" Width="774" Height="63" Padding="0,20" FontSize="20"/>
+
+    </Grid>
+</Window>
