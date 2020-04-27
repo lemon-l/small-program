@@ -44,7 +44,8 @@ namespace IP地址解析
                 string strIP = former.Text + "." + i.ToString();
                 stopwatch.Start();
                 IPAddress ip = IPAddress.Parse(strIP);
-                string hostname = await IPAsync(ip);
+                //string hostname = await IPAsync(ip);
+                string hostname = await Task.Run(() => IPAsync(ip));
                 stopwatch.Stop();
                 this.showResult.Text += "扫描地址 ：" + strIP + "，扫描用时：" + stopwatch.ElapsedMilliseconds.ToString() + "毫秒，主机DNS名称：" + hostname + "\n";
             }
