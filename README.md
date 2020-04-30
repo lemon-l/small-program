@@ -19,8 +19,8 @@ IP地址解析：在规定范围内遍历IP地址，记录扫描用时，获取�
 ### [Network adapter information](https://github.com/lemon-l/small-program/tree/master/Network%20adapter%20information)
 获取适配器信息、流量包监测。
 <div align="center"><img width="400" height="200" src="https://ftp.bmp.ovh/imgs/2020/03/e2e5bf3ede3a3aa5.png"></div>
-### [Task Manager](https://github.com/lemon-l/small-program/tree/master/Task%20Manager)
 
+### [Task Manager](https://github.com/lemon-l/small-program/tree/master/Task%20Manager)
 简单的任务管理器，获取进程的ID、名称、启动时间、内存分配、打开的句柄数、是否响应等信息；还可以结束相应的进程。
 <div align="center"><img width="400" height="250" src="https://ftp.bmp.ovh/imgs/2020/03/fb7fa8600f7ec5ca.png"></div>
 
@@ -33,4 +33,4 @@ IP地址解析：在规定范围内遍历IP地址，记录扫描用时，获取�
 
 ### [Matrix Calculus](https://github.com/lemon-l/small-program/tree/master/Matrix%20Calculus)
 使用并行和非并行的方法分别完成了矩阵的乘法。
-<div align="center"><img src="https://ftp.bmp.ovh/imgs/2020/04/709fafb806f9df33.png"></div>
+<div align="center"><img src="https://ftp.bmp.ovh/imgs/2020/04/4620bbe48fdd2a2e.png"></div>
