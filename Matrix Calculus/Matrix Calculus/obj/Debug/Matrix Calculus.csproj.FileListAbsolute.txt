@@ -1,0 +1,7 @@
+G:\我的代码\网络应用编程\Matrix Calculus\Matrix Calculus\bin\Debug\Matrix Calculus.exe.config
+G:\我的代码\网络应用编程\Matrix Calculus\Matrix Calculus\bin\Debug\Matrix Calculus.exe
+G:\我的代码\网络应用编程\Matrix Calculus\Matrix Calculus\bin\Debug\Matrix Calculus.pdb
+G:\我的代码\网络应用编程\Matrix Calculus\Matrix Calculus\obj\Debug\Matrix Calculus.csprojAssemblyReference.cache
+G:\我的代码\网络应用编程\Matrix Calculus\Matrix Calculus\obj\Debug\Matrix Calculus.csproj.CoreCompileInputs.cache
+G:\我的代码\网络应用编程\Matrix Calculus\Matrix Calculus\obj\Debug\Matrix Calculus.exe
+G:\我的代码\网络应用编程\Matrix Calculus\Matrix Calculus\obj\Debug\Matrix Calculus.pdb
