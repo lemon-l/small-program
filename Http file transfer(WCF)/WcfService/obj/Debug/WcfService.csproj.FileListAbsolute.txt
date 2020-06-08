@@ -1,0 +1,7 @@
+G:\我的代码\网络应用编程\Http file transfer(WCF)\WcfService\bin\WcfService.dll.config
+G:\我的代码\网络应用编程\Http file transfer(WCF)\WcfService\bin\WcfService.dll
+G:\我的代码\网络应用编程\Http file transfer(WCF)\WcfService\bin\WcfService.pdb
+G:\我的代码\网络应用编程\Http file transfer(WCF)\WcfService\obj\Debug\WcfService.csproj.CoreCompileInputs.cache
+G:\我的代码\网络应用编程\Http file transfer(WCF)\WcfService\obj\Debug\WcfService.dll
+G:\我的代码\网络应用编程\Http file transfer(WCF)\WcfService\obj\Debug\WcfService.pdb
+G:\我的代码\网络应用编程\Http file transfer(WCF)\WcfService\obj\Debug\WcfService.csprojAssemblyReference.cache
