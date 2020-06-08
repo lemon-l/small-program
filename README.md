@@ -34,3 +34,7 @@ IP地址解析：在规定范围内遍历IP地址，记录扫描用时，获取�
 ### [Matrix Calculus](https://github.com/lemon-l/small-program/tree/master/Matrix%20Calculus)
 使用并行和非并行的方法分别完成了矩阵的乘法。
 <div align="center"><img width="400" height="200" src="https://ftp.bmp.ovh/imgs/2020/04/4620bbe48fdd2a2e.png"></div>
+
+### [Http file transfer(WCF)](https://github.com/lemon-l/small-program/tree/master/http%20file%20transfer(wcf))
+运用WCF远程服务实现文件传输
+<div align="center"><img width="400" height="200" src="https://wx4.sinaimg.cn/mw690/007aMCC9ly1gfkquhw86aj30ra0ecdg4.jpg"></div>
