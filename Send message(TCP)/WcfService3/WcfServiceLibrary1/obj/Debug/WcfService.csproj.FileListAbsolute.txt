@@ -1,0 +1,7 @@
+G:\我的代码\网络应用编程\WcfService3\WcfService3\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+G:\我的代码\网络应用编程\WcfService3\WcfService3\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+G:\我的代码\网络应用编程\WcfService3\WcfService3\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+G:\我的代码\网络应用编程\WcfService3\WcfService3\WcfServiceLibrary1\obj\Debug\WcfService.csprojAssemblyReference.cache
+G:\我的代码\网络应用编程\WcfService3\WcfService3\WcfServiceLibrary1\obj\Debug\WcfService.csproj.CoreCompileInputs.cache
+G:\我的代码\网络应用编程\WcfService3\WcfService3\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+G:\我的代码\网络应用编程\WcfService3\WcfService3\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
