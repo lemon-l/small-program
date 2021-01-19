@@ -1,0 +1,61 @@
+﻿@model BooksStore.Models.Books
+@{
+    ViewBag.Title = "Details";
+    String Path = "/Image/Category/" + Model.Id.ToString() + ".jpg";
+}
+<div class="mainWidth mCenter clearfix">
+    <div class="box-shadow sidenav fLeft">
+        <img width="250" height="665" src="~/Image/another_book.png" />
+    </div>
+    <div class="main-news fRight">
+        <div class="pro_book">
+            <h3>@Model.Name<img src="~/Image/sf_by.png" /></h3>
+            <div class="pro_name">@Model.Description</div>     
+        </div>
+        <div class="pro_buy">
+            <div class="pro_img">
+                <img src=@Path />
+            </div>
+            <div class="pro_content">
+                <div style="text-align:right">
+                <span style="display:block">扫码关注我们</span>
+                </div>
+                <div class="pro_qr" style="float:right"><img width="100" src="~/Image/qr.png" /></div>
+                <ul class="pro_detail">
+                    <li>定价：<span>@Model.Price</span></li>
+                    <li class="pro_star">
+                        评分：
+                        <img src="~/Image/star_0.gif" />
+                        <img src="~/Image/star_0.gif" />
+                        <img src="~/Image/star_0.gif" />
+                        <img src="~/Image/star_0.gif" />
+                        <img src="~/Image/star_0.gif" />
+                    </li>
+                    <li>
+                        <span class="fLeft">促销活动：</span>
+                        <span class="pro_act">加微信福利群享受更多优惠</span>
+                    </li>
+                    <li>作者：</li>
+                    <li>出版社：</li>
+                    <li>出版时间：</li>
+                    @*<li>字数：</li>
+                    <li></li>*@
+                    <li>
+                        <div class="add_cart">
+                            @using (Html.BeginForm("AddToCart", "Cart"))
+                            {
+                                @Html.HiddenFor(x => x.Id)
+                                @Html.Hidden("returnUrl", Request.Url.PathAndQuery)
+                                <input class="confirm_cart" type="submit" value="" />
+                            }
+                        </div>
+                    </li>
+                </ul>
+            </div>         
+        </div>
+        <div style="margin-top:280px;margin-left:3px;">
+            <img width="734" src="~/Image/cs_790-160.jpg" />
+            <img width="734" src="~/Image/世界是红色的790-160.jpg" />
+        </div>
+    </div>
+</div>

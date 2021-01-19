@@ -1,0 +1,72 @@
+﻿@model Mvc5FuLuA.Areas.LX01.Models.Staff
+@{ 
+    var ajaxOptions = new AjaxOptions { UpdateTargetId = "bodyContent" };
+}
+<h2 style="color:palevioletred; text-align:center; font-family:'Times New Roman', Times, serif">注册</h2>
+<br />
+@using (Ajax.BeginForm(ajaxOptions))
+{
+    @Html.AntiForgeryToken()
+    <div class="form-horizontal" style="margin-left:25%">
+        @Html.ValidationSummary(true, "", new { @style = "color:red" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.UserName, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.UserName, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.UserName, "", new { @style = "color:red" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.UserPwd, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.UserPwd, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.UserPwd, "", new { @style = "color:red" })
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="col-sm-3 control-label">
+                <input class="checkbox-inline" type="checkbox"> remember me
+            </label>
+            <label style="color:green; text-decoration:underline" class="col-sm-5 control-label">forget you?</label>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-3" style="margin-left:30%">
+                <input class="btn btn-success" id="btn1" type="submit" value="提交" />
+            </div>
+        </div>
+    </div>
+}
+<script>
+    jQuery.validator.addMethod(
+        "check", function (value, element) {
+            var check = /^([a-zA-Z0-9]+)$/;
+            return this.optional(element) || (check.test(value));
+        }, "只能输入英文字母或数字");
+
+    $("#btn1").click(function () {
+        $("form").validate({
+            rules: {
+                UserName: { required: true, rangelength: [3, 20]},
+                UserPwd: {
+                    required: true,
+                    minlength: 6,
+                    maxlength: 20,
+                    check: true
+                }
+            },
+            messages: {
+                UserName: {
+                    required: "姓名不能为空",
+                    rangelength: "姓名必须在3-20个字符之间",
+                    
+                },
+                UserPwd: {
+                    required: "密码不能为空",
+                    minlength: "密码不能少于6个字符",
+                    maxlength: "密码最多为20个字符",
+                    check: "只能输入英文字母或数字"
+                }
+            }
+        });
+    });
+</script>

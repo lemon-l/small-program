@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - 图书采购网</title>
+    <link href="~/LocalStyle/CSS/index.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+@{
+    var ajaxOptions = new AjaxOptions
+    {
+        LoadingElementId = "loading",
+        UpdateTargetId = "mainWindow",
+        OnFailure = "OnFailure"
+    };
+}
+<body style="padding:0; margin:0">
+    <div id="return_top">
+        <a class="wrap" href="javascript:void(0)"></a>
+    </div>
+    <div class="header">@RenderPage("~/Views/Shared/_Header.cshtml")</div>
+    <div class="nav_bg">
+        <div class="mainWidth mCenter">
+            <h2 class="cartTitle fLeft">
+                <a class="bookSort" href="#">
+                    全部图书分类
+                </a>
+            </h2>
+            <ul class="nvSelect">
+                <li class="nvDisplay">@Html.ActionLink("主页", "Index", "Home", ajaxOptions, new { @class = "nvLink" })</li>
+                <li class="nav-bar">
+                <li class="nvDisplay">@Html.ActionLink("新书", "NewBooks", "Home", ajaxOptions, new { @class = "nvLink" })</li>
+                <li class="nav-bar">
+                <li class="nvDisplay">@Html.ActionLink("特价", "SpecialPrice", "Home", ajaxOptions, new { @class = "nvLink" })</li>
+                <li class="nav-bar">
+                <li class="nvDisplay">@Html.ActionLink("排行榜", "Ranklist", "Home", ajaxOptions, new { @class = "nvLink" })</li>
+                <li class="nav-bar">
+            </ul>
+        </div>
+    </div>
+    <div>
+        @RenderBody()
+    </div>
+    @*@RenderSection("scripts", required: false)*@
+    <br />
+    <div class="footer">@RenderPage("~/Views/Shared/_Footer.cshtml")</div>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+    <script src="~/LocalStyle/Javascript/index.js"></script>
+</body>
+</html>

@@ -1,0 +1,40 @@
+﻿@model IEnumerable<BooksStore.Models.Books>
+@{
+    ViewBag.Title = "排行榜";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    int i = 0;
+    string path = "";
+}
+<div class="mainWidth mCenter clearfix">
+    <div class="box-shadow sidenav fLeft">
+        <img style="margin-left:-4px;" width="254" src="~/Image/left_show.png" />
+    </div>
+    <div class="main-news fRight">
+        <div class="rankings">
+            <h4>
+                <img width="18" height="27" src="http://product.china-pub.com/rank/images/03.png" /><strong style="margin-left:20px;">图书畅销榜</strong>
+                <span style="margin-left:10px;font-size:15px;">每日更新</span>
+            </h4>
+        </div>
+        <div class="rankings_book">
+            @foreach (var item in Model)
+            {
+                path = "/Image/Category/" + item.Id.ToString() + ".jpg";
+                i += 1;
+                if (i > 10){ break; }
+                <div class="signal_book">
+                    <a target="_blank" href="#">
+                        <div class="number">@i</div>
+                        <img src=@path width="100" />
+                        <span class="span1">@Html.DisplayFor(modelItem => item.Name).ToString()</span>
+                        <span class="span2">￥@Html.DisplayFor(modelItem => item.Price)</span>
+                        <span class="span3">销量：@Html.DisplayFor(modelItem => item.count)</span>
+                    </a>
+                 </div>
+            }
+        </div>
+    </div>
+</div>
+
+
+    

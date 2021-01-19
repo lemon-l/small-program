@@ -1,0 +1,84 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - 我的 ASP.NET 应用程序</title>
+
+    @Styles.Render("~/Content/themes/base/jqueryui")
+    @Styles.Render("~/Content/css")
+
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/jquery-ui")
+    @Scripts.Render("~/bundles/jquery-unobtrusive-ajax")
+    @Scripts.Render("~/bundles/bootstrap")
+</head>
+@{
+    var ajaxOptions = new AjaxOptions
+    {
+        LoadingElementId = "loading",
+        UpdateTargetId = "mainWindow",
+        OnFailure = "OnFailure"
+    };
+}
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("姓名：hhhh", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li><a>组号：01，上机位置：01排1号，学号：1812050074，性别：女</a></li>
+                </ul>
+                <ul id="loading" class="nav navbar-text navbar-right" style="display: none; color: white;">
+                    <li>（正在加载，请稍等...）</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="container body-content">
+        <div class="row">
+            <div class="col-md-3">
+                <div class="leftMenu" style="margin-top:10px">
+                    <h3 class="btn-success">实验内容</h3>
+                    <div>
+                        @Ajax.ActionLink("实验二—新增视图", "Index", "New", new { area = "LX01" }, ajaxOptions, new { @class = "list-group-item" })
+                        @Ajax.ActionLink("实验二—新建模型", "FormControlDemo2", "New", new { area = "LX01"}, ajaxOptions, new { @class = "list-group-item" })
+                        @Ajax.ActionLink("实验三—数据库操作", "Index", "Tables", new { area = "LX01" }, ajaxOptions, new { @class = "list-group-item" })
+                        @Ajax.ActionLink("实验四—ViewBag", "Index", "Default", new { area = "LX01" }, ajaxOptions, new { @class = "list-group-item" })
+                        @Ajax.ActionLink("实验四—服务端验证", "Index", "Test3", new { area = "LX01" }, ajaxOptions, new { @class = "list-group-item" })
+                        @Ajax.ActionLink("实验四—客户端验证", "Validation1", "Test3", new { area = "LX01" }, ajaxOptions, new { @class = "list-group-item" })
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-9">
+                <div id="mainWindow" style="border:1px solid blue;margin-top:10px; padding:10px; overflow-y:auto; overflow-x:hidden">
+                    @RenderBody()
+                </div>
+            </div>
+        </div>
+        <footer style="margin-top:10px">
+            <div class="btn-danger text-center">本组成员：hhhh（组长）、张三、李四、王五、赵六</div>
+        </footer>
+    </div>
+    <script>
+        $(document).ready(function () {
+            var menu = $(".leftMenu");
+            menu.accordion({ collapsible: true });
+            $("#mainWindow").css({ minHeight: menu.height() });
+        });
+        function OnFailure(xhr) {
+            $("body").html(xhr.responseText);
+        }
+    </script>
+</body>
+</html>

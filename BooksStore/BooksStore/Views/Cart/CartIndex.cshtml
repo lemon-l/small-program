@@ -1,0 +1,169 @@
+﻿@model BooksStore.Models.CartIndexVm
+@{
+    ViewBag.Title = "Your Cart";
+    Layout = null;
+    int number = Model.Cart.Lines.Count();
+    decimal money = Model.Cart.ComputeTotalPrice();
+}
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Login</title>
+    <link href="~/LocalStyle/CSS/footer.css" rel="stylesheet" />
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")    
+
+</head>
+<body style="padding:0; margin:0">
+    @RenderPage("~/Views/Shared/_AccHead.cshtml")
+    <div id="none_goods" class="cart_box mainWidth mCenter">
+        <div class="flow_step">
+            <ul>
+                <li>1.我的购物车</li>
+                <li>2.确认订单信息</li>
+                <li>3.成功提交订单</li>
+            </ul>
+        </div>
+        <div class="flow_strp_title">
+            <h2><strong>购物车</strong></h2>
+            <label class="fLeft"></label>
+        </div>
+        <div class="flow_pro">
+            <table id="tb" cellpadding="0" cellspacing="0" border="0">
+                <thead>
+                    <tr>
+                        <th width="5%"></th>
+                        <th width="25%">商品</th>
+                        <th width="10%">类型</th>
+                        <th width="10%">价格</th>
+                        <th width="10%">数量</th>
+                        <th width="10%">价格</th>
+                        <th width="10%">操作</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td colspan="8">
+                            <div class="flow_cart">
+                                <p>您的购物车没有商品</p>
+                                @Html.ActionLink("现在就去选购吧！", "Index", "Home")
+                            </div>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="goon_buy fRight">@Html.ActionLink(" ", "Computer", "Books")</div>
+    </div>
+    <div id="have_goods" class="cart_box mainWidth mCenter">
+        <div class="flow_step">
+            <ul>
+                <li>1.我的购物车</li>
+                <li>2.确认订单信息</li>
+                <li>3.成功提交订单</li>
+            </ul>
+        </div>
+        <div class="flow_strp_title">
+            <h2><strong>购物车</strong></h2>
+            <label class="fLeft"></label>
+        </div>
+        <div class="flow_pro">
+            <table id="tb" cellpadding="0" cellspacing="0" border="0">
+                <thead>
+                    <tr>
+                        <th width="5%"></th>
+                        <th width="25%">商品</th>
+                        <th width="10%">类型</th>
+                        <th width="10%">价格</th>
+                        <th width="10%">数量</th>
+                        <th width="10%">价格</th>
+                        <th width="10%">操作</th>
+                    </tr>
+                </thead>
+                <tbody class="have_goods">
+                    @foreach (var line in Model.Cart.Lines)
+                    {
+
+                        <tr>
+                            <td></td>
+                            <td>@line.books.Name</td>
+                            <td>@line.books.Category</td>
+                            <td>@line.books.Price.ToString()</td>
+                            <td>@line.Quantity</td>
+                            <td>@((line.Quantity * line.books.Price).ToString())</td>
+                            <td>
+                                @using (Html.BeginForm("RemoveFromCart", "Cart"))
+                                {
+                                    @Html.Hidden("Id", line.books.Id)
+                                    @Html.HiddenFor(x => x.ReturnUrl)
+                                    <input class="delete" style="border:none;background-color:white" type="submit" value="删除" />
+                                }
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+        <div class="goon_buy fRight">
+            @Html.ActionLink(" ", "Computer", "Books")
+            <input id="alert_confirm" type="button" onclick="ConfirmOrder()" class="confirm_order" value="确认订单" />
+        </div>
+        <div class="sum_price">
+            <span>Total:</span>
+            <span style="color:red">
+                @Model.Cart.ComputeTotalPrice().ToString("c")
+            </span>
+        </div>
+        <div id="pay_money" class="mainWidth mCenter">
+            <div id="timer" style="color:red;"></div>
+            <div id="warring" style="color:red;"></div>
+            <h3>结算：￥@money</h3>
+            <img width="180" src="~/Image/qr.png" />
+        </div>
+    </div>    
+    <script>
+        window.onload = function () {
+            if (@number == 0) {
+                document.getElementById('none_goods').style.display = "block";
+                document.getElementById('have_goods').style.display = "none";
+            } else {
+                document.getElementById('none_goods').style.display = "none";
+                document.getElementById('have_goods').style.display = "block";
+            }
+        };
+
+               
+        function ConfirmOrder() {
+            alert('20秒后订单关闭');
+            document.getElementById('pay_money').style.display = "block";
+        }
+
+        var maxtime = 20;
+        function CountDown() {
+            if (maxtime >= 0) {
+                minutes = Math.floor(maxtime / 60);
+                seconds = Math.floor(maxtime % 60);
+                msg = "订单取消还有" + minutes + "分" + seconds + "秒";
+                document.all["timer"].innerHTML = msg;
+                if (maxtime == 5 * 60) alert("还剩5分钟");
+                --maxtime;
+            } else {
+                clearInterval(timer);
+                document.getElementById('pay_money').style.display = "none";
+                var Response = prompt("亲，您对本次购物满意吗？", "满意");
+                console.log(Response);
+                document.getElementById('none_goods').style.display = "block";
+                document.getElementById('have_goods').style.display = "none";
+            }
+        }
+        timer = setInterval("CountDown()", 1000);
+    </script>
+</body>
+</html>
+
+
+
+
+    

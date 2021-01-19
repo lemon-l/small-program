@@ -1,0 +1,31 @@
+﻿@model Mvc5FuLuA.Areas.LX01.Models.MyClass3Model
+@{
+    var ajaxOptions = new AjaxOptions { UpdateTargetId = "bodyContent" };
+}
+<h4 class="bg-success" style="text-align:center">个人信息统计</h4>
+@using (Ajax.BeginForm(ajaxOptions))
+{
+    @Html.AntiForgeryToken()
+    <table class="table table-bordered" style="vertical-align:middle">
+        <thead>
+            <tr>
+                <th>学号</th>
+                <th>姓名</th>
+                <th>性别</th>
+                <th>年龄</th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < Model.StudentID.Count(); i++)
+            {
+                <tr>
+                    <td>@Model.StudentID[i]</td>
+                    <td>@Model.StudentName[i]</td>
+                    <td>@Model.StudentGender[i]</td>
+                    <td>@Model.StudentAge[i]</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+

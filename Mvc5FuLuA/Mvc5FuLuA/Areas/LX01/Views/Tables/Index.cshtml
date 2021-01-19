@@ -1,0 +1,23 @@
+﻿@model IEnumerable<Mvc5FuLuA.Areas.LX01.Models.Essay.Table>
+
+<h4 style="text-align:center;color:red">Personal Blog Content</h4>
+<br />
+@foreach (var item in Model)
+{
+    <ul>
+        <li style="list-style-type:none">
+            <img style="width:2%;height:2%" src="~/Areas/LX01/image/icon.png">
+            <span style="display:inline-block;width: 50%;">
+                @Html.ActionLink(@Html.DisplayFor(modelItem => item.Title).ToString(), "Details", new { id = item.Id })
+            </span>
+            <span style="margin-left:5%;display:inline-block;width: 10%;">@Html.DisplayFor(modelItem => item.Author)</span>
+            <span style="margin-left:5%;display:inline-block;width: 20%;">@Html.DisplayFor(modelItem => item.Date)</span>
+            @*<span style="margin-left:5%">@Html.ActionLink("编辑", "Edit", new { id = item.Id })</span>
+                <span style="margin-left:5%">@Html.ActionLink("详情", "Details", new { id = item.Id })</span>
+                <span style="margin-left:5%">@Html.ActionLink("删除", "Delete", new { id = item.Id })</span>*@
+        </li>
+    </ul>
+}
+<br />
+@*<button type="button" class="btn btn-success" style="display:block; margin:0 auto; text-decoration:none; color:aliceblue">
+    @Html.ActionLink("新建", "Create", new { style = "color:red" })</button>*@

@@ -1,0 +1,71 @@
+﻿@model BooksStore.Models.SignUpModel
+@{
+    Layout = null;
+    ViewBag.Title = "Register";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Login</title>
+    <link href="~/LocalStyle/CSS/footer.css" rel="stylesheet" />
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body style="padding:0; margin:0">
+    @RenderPage("~/Views/Shared/_AccHead.cshtml")
+    <div class="SetBg">
+        <div class="mainWidth mCenter">
+            <img src="~/Image/login3.png" style="float:left;margin-top:70px;" height="260">
+            <hr />
+            @using (Html.BeginForm("Register", "Account", FormMethod.Post, new { @class = "register-form fRight" }))
+            {
+                @Html.AntiForgeryToken()
+            <div class="form-horizontal">
+                <h4 style="color:#e7e7e7;text-align:center;line-height:35px;border-bottom:2px dashed #ffffff;margin-bottom:20px;margin-top:0;">注册采购网</h4>
+                <div class="form-horizontal register">
+                    @Html.ValidationSummary(true, "", new { @class = "text-reminder" })
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label col-md-4" })
+                        <div class="col-md-8">
+                            @Html.TextBoxFor(model => model.Email, new { htmlAttributes = new { @class = "form-control" } })
+                            <br />
+                            @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Password, htmlAttributes: new { @class = "control-label col-md-4" })
+                        <div class="col-md-8">
+                            @Html.TextBoxFor(model => model.Password, new { htmlAttributes = new { @class = "form-control" } })
+                            <br />
+                            @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.ComfirmPassword, htmlAttributes: new { @class = "control-label col-md-4" })
+                        <div class="col-md-8">
+                            @Html.TextBoxFor(model => model.ComfirmPassword, new { htmlAttributes = new { @class = "form-control" } })
+                        </div>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="mCenter" style="text-align:center">
+                        <input type="submit" value="注册" class="btn btn-success" />
+                    </div>
+                </div>
+            </div>
+                <div class="register-now">
+                    <p>已经是采购网用户！ @Html.ActionLink("马上登陆", "login")</p>
+                </div>
+            }
+        </div>
+    </div>
+    <div class="footer">
+        @RenderPage("~/Views/Shared/_Footer.cshtml")
+    </div>
+</body>
+</html>
+
+

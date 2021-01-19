@@ -1,0 +1,26 @@
+﻿@model IEnumerable<BooksStore.Models.Books>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="mainWidth mCenter clearfix">
+
+    <div class="main-news fRight">
+        @foreach (var item in Model)
+        {
+            <div>
+                <h3>@item.Name</h3>
+                <h4>@item.Price</h4>
+                <div>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+                </div>
+                <br />
+                <hr />
+            </div>
+        }
+    </div>
+    @RenderPage("~/Views/Shared/_PartialPage1.cshtml")
+</div>
+

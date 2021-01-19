@@ -1,0 +1,973 @@
+d:\S_BooksStore\BooksStore\BooksStore\bin\BooksStore.dll.config
+d:\S_BooksStore\BooksStore\BooksStore\bin\BooksStore.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\BooksStore.pdb
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\csc.exe
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\csc.exe.config
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\csc.rsp
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\csi.exe
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\csi.exe.config
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\csi.rsp
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.Managed.Core.targets
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\System.AppContext.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\System.Collections.Immutable.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\System.Console.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\System.Globalization.Calendars.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\System.IO.Compression.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\System.IO.FileSystem.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\System.Net.Http.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\System.Net.Sockets.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\System.Reflection.Metadata.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\System.ValueTuple.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\System.Xml.ReaderWriter.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\System.Xml.XmlDocument.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\System.Xml.XPath.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\vbc.exe
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\vbc.exe.config
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\vbc.rsp
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\VBCSCompiler.exe
+d:\S_BooksStore\BooksStore\BooksStore\bin\roslyn\VBCSCompiler.exe.config
+d:\S_BooksStore\BooksStore\BooksStore\bin\Antlr3.Runtime.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\EntityFramework.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\EntityFramework.SqlServer.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\Microsoft.Web.Infrastructure.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\Newtonsoft.Json.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\System.Web.Helpers.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\System.Web.Mvc.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\System.Web.Optimization.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\System.Web.Razor.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\System.Web.WebPages.Deployment.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\System.Web.WebPages.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\System.Web.WebPages.Razor.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\WebGrease.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\EntityFramework.xml
+d:\S_BooksStore\BooksStore\BooksStore\bin\EntityFramework.SqlServer.xml
+d:\S_BooksStore\BooksStore\BooksStore\bin\System.Web.Helpers.xml
+d:\S_BooksStore\BooksStore\BooksStore\bin\System.Web.Mvc.xml
+d:\S_BooksStore\BooksStore\BooksStore\bin\System.Web.Optimization.xml
+d:\S_BooksStore\BooksStore\BooksStore\bin\System.Web.Razor.xml
+d:\S_BooksStore\BooksStore\BooksStore\bin\System.Web.WebPages.xml
+d:\S_BooksStore\BooksStore\BooksStore\bin\System.Web.WebPages.Deployment.xml
+d:\S_BooksStore\BooksStore\BooksStore\bin\System.Web.WebPages.Razor.xml
+d:\S_BooksStore\BooksStore\BooksStore\bin\Newtonsoft.Json.xml
+d:\S_BooksStore\BooksStore\BooksStore\bin\Antlr3.Runtime.pdb
+d:\S_BooksStore\BooksStore\BooksStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\S_BooksStore\BooksStore\BooksStore\bin\zh-Hans\EntityFramework.resources.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\zh-Hans\System.Web.Helpers.resources.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\zh-Hans\System.Web.Mvc.resources.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\zh-Hans\System.Web.Optimization.resources.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\zh-Hans\System.Web.Razor.resources.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\zh-Hans\System.Web.WebPages.resources.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+d:\S_BooksStore\BooksStore\BooksStore\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+d:\S_BooksStore\BooksStore\BooksStore\obj\Debug\BooksStore.csproj.CoreCompileInputs.cache
+d:\S_BooksStore\BooksStore\BooksStore\obj\Debug\BooksStore.csproj.CopyComplete
+d:\S_BooksStore\BooksStore\BooksStore\obj\Debug\BooksStore.dll
+d:\S_BooksStore\BooksStore\BooksStore\obj\Debug\BooksStore.pdb
+d:\S_BooksStore\BooksStore\BooksStore\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+d:\S_BooksStore\BooksStore\BooksStore\obj\Debug\BooksStore.csprojAssemblyReference.cache
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\BooksStore.dll.config
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\BooksStore.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\BooksStore.pdb
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\csc.exe
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\csc.exe.config
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\csc.rsp
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\csi.exe
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\csi.exe.config
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\csi.rsp
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.Managed.Core.targets
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\System.AppContext.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Collections.Immutable.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Console.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Globalization.Calendars.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\System.IO.Compression.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\System.IO.FileSystem.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Net.Http.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Net.Sockets.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Reflection.Metadata.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\System.ValueTuple.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Xml.XmlDocument.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Xml.XPath.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\vbc.exe
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\vbc.exe.config
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\vbc.rsp
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\VBCSCompiler.exe
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\roslyn\VBCSCompiler.exe.config
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\Antlr3.Runtime.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\EntityFramework.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\EntityFramework.SqlServer.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\Microsoft.Web.Infrastructure.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\Newtonsoft.Json.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\System.Web.Helpers.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\System.Web.Mvc.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\System.Web.Optimization.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\System.Web.Razor.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\System.Web.WebPages.Deployment.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\System.Web.WebPages.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\System.Web.WebPages.Razor.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\WebGrease.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\EntityFramework.xml
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\EntityFramework.SqlServer.xml
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\System.Web.Helpers.xml
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\System.Web.Mvc.xml
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\System.Web.Optimization.xml
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\System.Web.Razor.xml
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\System.Web.WebPages.xml
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\System.Web.WebPages.Deployment.xml
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\System.Web.WebPages.Razor.xml
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\Newtonsoft.Json.xml
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\Antlr3.Runtime.pdb
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\zh-Hans\EntityFramework.resources.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\zh-Hans\System.Web.Helpers.resources.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\zh-Hans\System.Web.Mvc.resources.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\zh-Hans\System.Web.Optimization.resources.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\zh-Hans\System.Web.Razor.resources.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\zh-Hans\System.Web.WebPages.resources.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\obj\Debug\BooksStore.csproj.CoreCompileInputs.cache
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\obj\Debug\BooksStore.csproj.CopyComplete
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\obj\Debug\BooksStore.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\obj\Debug\BooksStore.pdb
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\obj\Debug\BooksStore.csprojAssemblyReference.cache
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\BooksStore.dll.config
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\BooksStore.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\BooksStore.pdb
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\csc.exe
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\csc.exe.config
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\csc.rsp
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\csi.exe
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\csi.exe.config
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\csi.rsp
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\System.AppContext.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\System.Console.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\System.Net.Http.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\System.Net.Sockets.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\vbc.exe
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\vbc.exe.config
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\vbc.rsp
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\Antlr3.Runtime.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\EntityFramework.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\EntityFramework.SqlServer.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\Newtonsoft.Json.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\System.Web.Helpers.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\System.Web.Mvc.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\System.Web.Optimization.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\System.Web.Razor.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\System.Web.WebPages.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\WebGrease.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\EntityFramework.xml
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\EntityFramework.SqlServer.xml
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\System.Web.Helpers.xml
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\System.Web.Mvc.xml
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\System.Web.Optimization.xml
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\System.Web.Razor.xml
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\System.Web.WebPages.xml
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\Newtonsoft.Json.xml
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\Antlr3.Runtime.pdb
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\obj\Debug\BooksStore.csprojAssemblyReference.cache
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\obj\Debug\BooksStore.csproj.CoreCompileInputs.cache
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\obj\Debug\BooksStore.csproj.CopyComplete
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\obj\Debug\BooksStore.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\obj\Debug\BooksStore.pdb
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\Microsoft.Owin.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\Microsoft.Owin.Security.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\Owin.dll
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\Microsoft.Owin.xml
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\Microsoft.Owin.Security.xml
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\谢天大大\Documents\Tencent Files\980180354\FileRecv\BooksStore\BooksStore\bin\Microsoft.Owin.Security.OAuth.xml
+G:\BooksStore\BooksStore\BooksStore\bin\BooksStore.dll.config
+G:\BooksStore\BooksStore\BooksStore\bin\BooksStore.dll
+G:\BooksStore\BooksStore\BooksStore\bin\BooksStore.pdb
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\csc.exe
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\csc.exe.config
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\csc.rsp
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\csi.exe
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\csi.exe.config
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\csi.rsp
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.Managed.Core.targets
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.AppContext.dll
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Collections.Immutable.dll
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Console.dll
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Globalization.Calendars.dll
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.IO.Compression.dll
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.IO.FileSystem.dll
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Net.Http.dll
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Net.Sockets.dll
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Reflection.Metadata.dll
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.ValueTuple.dll
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Xml.XmlDocument.dll
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Xml.XPath.dll
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\vbc.exe
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\vbc.exe.config
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\vbc.rsp
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\VBCSCompiler.exe
+G:\BooksStore\BooksStore\BooksStore\bin\roslyn\VBCSCompiler.exe.config
+G:\BooksStore\BooksStore\BooksStore\bin\Antlr3.Runtime.dll
+G:\BooksStore\BooksStore\BooksStore\bin\EntityFramework.dll
+G:\BooksStore\BooksStore\BooksStore\bin\EntityFramework.SqlServer.dll
+G:\BooksStore\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.Core.dll
+G:\BooksStore\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\BooksStore\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\BooksStore\BooksStore\BooksStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\BooksStore\BooksStore\BooksStore\bin\Microsoft.Owin.dll
+G:\BooksStore\BooksStore\BooksStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\BooksStore\BooksStore\BooksStore\bin\Microsoft.Owin.Security.Cookies.dll
+G:\BooksStore\BooksStore\BooksStore\bin\Microsoft.Owin.Security.dll
+G:\BooksStore\BooksStore\BooksStore\bin\Microsoft.Owin.Security.OAuth.dll
+G:\BooksStore\BooksStore\BooksStore\bin\Microsoft.Web.Infrastructure.dll
+G:\BooksStore\BooksStore\BooksStore\bin\Newtonsoft.Json.dll
+G:\BooksStore\BooksStore\BooksStore\bin\Owin.dll
+G:\BooksStore\BooksStore\BooksStore\bin\System.Web.Helpers.dll
+G:\BooksStore\BooksStore\BooksStore\bin\System.Web.Mvc.dll
+G:\BooksStore\BooksStore\BooksStore\bin\System.Web.Optimization.dll
+G:\BooksStore\BooksStore\BooksStore\bin\System.Web.Razor.dll
+G:\BooksStore\BooksStore\BooksStore\bin\System.Web.WebPages.Deployment.dll
+G:\BooksStore\BooksStore\BooksStore\bin\System.Web.WebPages.dll
+G:\BooksStore\BooksStore\BooksStore\bin\System.Web.WebPages.Razor.dll
+G:\BooksStore\BooksStore\BooksStore\bin\WebGrease.dll
+G:\BooksStore\BooksStore\BooksStore\bin\EntityFramework.xml
+G:\BooksStore\BooksStore\BooksStore\bin\EntityFramework.SqlServer.xml
+G:\BooksStore\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.Core.xml
+G:\BooksStore\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\BooksStore\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\BooksStore\BooksStore\BooksStore\bin\Microsoft.Owin.xml
+G:\BooksStore\BooksStore\BooksStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\BooksStore\BooksStore\BooksStore\bin\Microsoft.Owin.Security.xml
+G:\BooksStore\BooksStore\BooksStore\bin\Microsoft.Owin.Security.Cookies.xml
+G:\BooksStore\BooksStore\BooksStore\bin\Microsoft.Owin.Security.OAuth.xml
+G:\BooksStore\BooksStore\BooksStore\bin\System.Web.Helpers.xml
+G:\BooksStore\BooksStore\BooksStore\bin\System.Web.Mvc.xml
+G:\BooksStore\BooksStore\BooksStore\bin\System.Web.Optimization.xml
+G:\BooksStore\BooksStore\BooksStore\bin\System.Web.Razor.xml
+G:\BooksStore\BooksStore\BooksStore\bin\System.Web.WebPages.xml
+G:\BooksStore\BooksStore\BooksStore\bin\System.Web.WebPages.Deployment.xml
+G:\BooksStore\BooksStore\BooksStore\bin\System.Web.WebPages.Razor.xml
+G:\BooksStore\BooksStore\BooksStore\bin\Newtonsoft.Json.xml
+G:\BooksStore\BooksStore\BooksStore\bin\Antlr3.Runtime.pdb
+G:\BooksStore\BooksStore\BooksStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\BooksStore\BooksStore\BooksStore\bin\zh-Hans\EntityFramework.resources.dll
+G:\BooksStore\BooksStore\BooksStore\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+G:\BooksStore\BooksStore\BooksStore\bin\zh-Hans\System.Web.Helpers.resources.dll
+G:\BooksStore\BooksStore\BooksStore\bin\zh-Hans\System.Web.Mvc.resources.dll
+G:\BooksStore\BooksStore\BooksStore\bin\zh-Hans\System.Web.Optimization.resources.dll
+G:\BooksStore\BooksStore\BooksStore\bin\zh-Hans\System.Web.Razor.resources.dll
+G:\BooksStore\BooksStore\BooksStore\bin\zh-Hans\System.Web.WebPages.resources.dll
+G:\BooksStore\BooksStore\BooksStore\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+G:\BooksStore\BooksStore\BooksStore\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+G:\BooksStore\BooksStore\BooksStore\obj\Debug\BooksStore.csproj.CoreCompileInputs.cache
+G:\BooksStore\BooksStore\BooksStore\obj\Debug\BooksStore.csproj.CopyComplete
+G:\BooksStore\BooksStore\BooksStore\obj\Debug\BooksStore.dll
+G:\BooksStore\BooksStore\BooksStore\obj\Debug\BooksStore.pdb
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.Core.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\Microsoft.Owin.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\Microsoft.Owin.Security.Cookies.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\Microsoft.Owin.Security.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\Microsoft.Owin.Security.OAuth.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\Owin.dll
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.Core.xml
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\Microsoft.Owin.xml
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\Microsoft.Owin.Security.xml
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\Microsoft.Owin.Security.Cookies.xml
+G:\大三课程\ASP.net\BooksStore\BooksStore\BooksStore\bin\Microsoft.Owin.Security.OAuth.xml
+G:\BooksStore\BooksStore\BooksStore\obj\Debug\BooksStore.csprojResolveAssemblyReference.cache
+H:\BooksStore\BooksStore\BooksStore\obj\Debug\BooksStore.csprojResolveAssemblyReference.cache
+H:\BooksStore\BooksStore\BooksStore\obj\Debug\BooksStore.dll
+H:\BooksStore\BooksStore\BooksStore\obj\Debug\BooksStore.pdb
+F:\BooksStore\BooksStore\BooksStore\bin\BooksStore.dll.config
+F:\BooksStore\BooksStore\BooksStore\bin\BooksStore.dll
+F:\BooksStore\BooksStore\BooksStore\bin\BooksStore.pdb
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\csc.exe
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\csc.exe.config
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\csc.rsp
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\csi.exe
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\csi.exe.config
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\csi.rsp
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.Managed.Core.targets
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.AppContext.dll
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Collections.Immutable.dll
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Console.dll
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Globalization.Calendars.dll
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.IO.Compression.dll
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.IO.FileSystem.dll
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Net.Http.dll
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Net.Sockets.dll
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Reflection.Metadata.dll
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.ValueTuple.dll
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Xml.XmlDocument.dll
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Xml.XPath.dll
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\vbc.exe
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\vbc.exe.config
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\vbc.rsp
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\VBCSCompiler.exe
+F:\BooksStore\BooksStore\BooksStore\bin\roslyn\VBCSCompiler.exe.config
+F:\BooksStore\BooksStore\BooksStore\bin\Antlr3.Runtime.dll
+F:\BooksStore\BooksStore\BooksStore\bin\EntityFramework.dll
+F:\BooksStore\BooksStore\BooksStore\bin\EntityFramework.SqlServer.dll
+F:\BooksStore\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.Core.dll
+F:\BooksStore\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\BooksStore\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\BooksStore\BooksStore\BooksStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\BooksStore\BooksStore\BooksStore\bin\Microsoft.Owin.dll
+F:\BooksStore\BooksStore\BooksStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\BooksStore\BooksStore\BooksStore\bin\Microsoft.Owin.Security.Cookies.dll
+F:\BooksStore\BooksStore\BooksStore\bin\Microsoft.Owin.Security.dll
+F:\BooksStore\BooksStore\BooksStore\bin\Microsoft.Owin.Security.OAuth.dll
+F:\BooksStore\BooksStore\BooksStore\bin\Microsoft.Web.Infrastructure.dll
+F:\BooksStore\BooksStore\BooksStore\bin\Newtonsoft.Json.dll
+F:\BooksStore\BooksStore\BooksStore\bin\Owin.dll
+F:\BooksStore\BooksStore\BooksStore\bin\System.Web.Helpers.dll
+F:\BooksStore\BooksStore\BooksStore\bin\System.Web.Mvc.dll
+F:\BooksStore\BooksStore\BooksStore\bin\System.Web.Optimization.dll
+F:\BooksStore\BooksStore\BooksStore\bin\System.Web.Razor.dll
+F:\BooksStore\BooksStore\BooksStore\bin\System.Web.WebPages.Deployment.dll
+F:\BooksStore\BooksStore\BooksStore\bin\System.Web.WebPages.dll
+F:\BooksStore\BooksStore\BooksStore\bin\System.Web.WebPages.Razor.dll
+F:\BooksStore\BooksStore\BooksStore\bin\WebGrease.dll
+F:\BooksStore\BooksStore\BooksStore\bin\EntityFramework.xml
+F:\BooksStore\BooksStore\BooksStore\bin\EntityFramework.SqlServer.xml
+F:\BooksStore\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.Core.xml
+F:\BooksStore\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\BooksStore\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\BooksStore\BooksStore\BooksStore\bin\Microsoft.Owin.xml
+F:\BooksStore\BooksStore\BooksStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\BooksStore\BooksStore\BooksStore\bin\Microsoft.Owin.Security.xml
+F:\BooksStore\BooksStore\BooksStore\bin\Microsoft.Owin.Security.Cookies.xml
+F:\BooksStore\BooksStore\BooksStore\bin\Microsoft.Owin.Security.OAuth.xml
+F:\BooksStore\BooksStore\BooksStore\bin\System.Web.Helpers.xml
+F:\BooksStore\BooksStore\BooksStore\bin\System.Web.Mvc.xml
+F:\BooksStore\BooksStore\BooksStore\bin\System.Web.Optimization.xml
+F:\BooksStore\BooksStore\BooksStore\bin\System.Web.Razor.xml
+F:\BooksStore\BooksStore\BooksStore\bin\System.Web.WebPages.xml
+F:\BooksStore\BooksStore\BooksStore\bin\System.Web.WebPages.Deployment.xml
+F:\BooksStore\BooksStore\BooksStore\bin\System.Web.WebPages.Razor.xml
+F:\BooksStore\BooksStore\BooksStore\bin\Newtonsoft.Json.xml
+F:\BooksStore\BooksStore\BooksStore\bin\Antlr3.Runtime.pdb
+F:\BooksStore\BooksStore\BooksStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\BooksStore\BooksStore\BooksStore\bin\zh-Hans\EntityFramework.resources.dll
+F:\BooksStore\BooksStore\BooksStore\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+F:\BooksStore\BooksStore\BooksStore\bin\zh-Hans\System.Web.Helpers.resources.dll
+F:\BooksStore\BooksStore\BooksStore\bin\zh-Hans\System.Web.Mvc.resources.dll
+F:\BooksStore\BooksStore\BooksStore\bin\zh-Hans\System.Web.Optimization.resources.dll
+F:\BooksStore\BooksStore\BooksStore\bin\zh-Hans\System.Web.Razor.resources.dll
+F:\BooksStore\BooksStore\BooksStore\bin\zh-Hans\System.Web.WebPages.resources.dll
+F:\BooksStore\BooksStore\BooksStore\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+F:\BooksStore\BooksStore\BooksStore\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+F:\BooksStore\BooksStore\BooksStore\obj\Debug\BooksStore.csprojAssemblyReference.cache
+F:\BooksStore\BooksStore\BooksStore\obj\Debug\BooksStore.csproj.CoreCompileInputs.cache
+F:\BooksStore\BooksStore\BooksStore\obj\Debug\BooksStore.csproj.CopyComplete
+F:\BooksStore\BooksStore\BooksStore\obj\Debug\BooksStore.dll
+F:\BooksStore\BooksStore\BooksStore\obj\Debug\BooksStore.pdb
+G:\新建文件夹\BooksStore\BooksStore\obj\Debug\BooksStore.csprojResolveAssemblyReference.cache
+G:\新建文件夹\BooksStore\BooksStore\obj\Debug\BooksStore.dll
+G:\新建文件夹\BooksStore\BooksStore\obj\Debug\BooksStore.pdb
+I:\新建文件夹\BooksStore\BooksStore\bin\BooksStore.dll.config
+I:\新建文件夹\BooksStore\BooksStore\bin\BooksStore.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\BooksStore.pdb
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\csc.exe
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\csc.exe.config
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\csc.rsp
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\csi.exe
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\csi.exe.config
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\csi.rsp
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\Microsoft.Managed.Core.targets
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\System.AppContext.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\System.Collections.Immutable.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\System.Console.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\System.Globalization.Calendars.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\System.IO.Compression.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\System.IO.FileSystem.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\System.Net.Http.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\System.Net.Sockets.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\System.Reflection.Metadata.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\System.ValueTuple.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\System.Xml.XmlDocument.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\System.Xml.XPath.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\vbc.exe
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\vbc.exe.config
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\vbc.rsp
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\VBCSCompiler.exe
+I:\新建文件夹\BooksStore\BooksStore\bin\roslyn\VBCSCompiler.exe.config
+I:\新建文件夹\BooksStore\BooksStore\bin\Antlr3.Runtime.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\EntityFramework.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\EntityFramework.SqlServer.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.Core.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\Microsoft.Owin.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\Microsoft.Owin.Security.Cookies.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\Microsoft.Owin.Security.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\Microsoft.Owin.Security.OAuth.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\Microsoft.Web.Infrastructure.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\Newtonsoft.Json.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\Owin.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\System.Web.Helpers.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\System.Web.Mvc.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\System.Web.Optimization.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\System.Web.Razor.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\System.Web.WebPages.Deployment.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\System.Web.WebPages.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\System.Web.WebPages.Razor.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\WebGrease.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\EntityFramework.xml
+I:\新建文件夹\BooksStore\BooksStore\bin\EntityFramework.SqlServer.xml
+I:\新建文件夹\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.Core.xml
+I:\新建文件夹\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\新建文件夹\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\新建文件夹\BooksStore\BooksStore\bin\Microsoft.Owin.xml
+I:\新建文件夹\BooksStore\BooksStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\新建文件夹\BooksStore\BooksStore\bin\Microsoft.Owin.Security.xml
+I:\新建文件夹\BooksStore\BooksStore\bin\Microsoft.Owin.Security.Cookies.xml
+I:\新建文件夹\BooksStore\BooksStore\bin\Microsoft.Owin.Security.OAuth.xml
+I:\新建文件夹\BooksStore\BooksStore\bin\System.Web.Helpers.xml
+I:\新建文件夹\BooksStore\BooksStore\bin\System.Web.Mvc.xml
+I:\新建文件夹\BooksStore\BooksStore\bin\System.Web.Optimization.xml
+I:\新建文件夹\BooksStore\BooksStore\bin\System.Web.Razor.xml
+I:\新建文件夹\BooksStore\BooksStore\bin\System.Web.WebPages.xml
+I:\新建文件夹\BooksStore\BooksStore\bin\System.Web.WebPages.Deployment.xml
+I:\新建文件夹\BooksStore\BooksStore\bin\System.Web.WebPages.Razor.xml
+I:\新建文件夹\BooksStore\BooksStore\bin\Newtonsoft.Json.xml
+I:\新建文件夹\BooksStore\BooksStore\bin\Antlr3.Runtime.pdb
+I:\新建文件夹\BooksStore\BooksStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\新建文件夹\BooksStore\BooksStore\bin\zh-Hans\EntityFramework.resources.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\zh-Hans\System.Web.Helpers.resources.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\zh-Hans\System.Web.Mvc.resources.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\zh-Hans\System.Web.Optimization.resources.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\zh-Hans\System.Web.Razor.resources.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\zh-Hans\System.Web.WebPages.resources.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+I:\新建文件夹\BooksStore\BooksStore\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+I:\新建文件夹\BooksStore\BooksStore\obj\Debug\BooksStore.csprojAssemblyReference.cache
+I:\新建文件夹\BooksStore\BooksStore\obj\Debug\BooksStore.csproj.CoreCompileInputs.cache
+I:\新建文件夹\BooksStore\BooksStore\obj\Debug\BooksStore.csproj.CopyComplete
+I:\新建文件夹\BooksStore\BooksStore\obj\Debug\BooksStore.dll
+I:\新建文件夹\BooksStore\BooksStore\obj\Debug\BooksStore.pdb
+I:\BooksStore\BooksStore\bin\BooksStore.dll.config
+I:\BooksStore\BooksStore\bin\BooksStore.dll
+I:\BooksStore\BooksStore\bin\BooksStore.pdb
+I:\BooksStore\BooksStore\bin\roslyn\csc.exe
+I:\BooksStore\BooksStore\bin\roslyn\csc.exe.config
+I:\BooksStore\BooksStore\bin\roslyn\csc.rsp
+I:\BooksStore\BooksStore\bin\roslyn\csi.exe
+I:\BooksStore\BooksStore\bin\roslyn\csi.exe.config
+I:\BooksStore\BooksStore\bin\roslyn\csi.rsp
+I:\BooksStore\BooksStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\BooksStore\BooksStore\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\BooksStore\BooksStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\BooksStore\BooksStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\BooksStore\BooksStore\bin\roslyn\Microsoft.Managed.Core.targets
+I:\BooksStore\BooksStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\BooksStore\BooksStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+I:\BooksStore\BooksStore\bin\roslyn\System.AppContext.dll
+I:\BooksStore\BooksStore\bin\roslyn\System.Collections.Immutable.dll
+I:\BooksStore\BooksStore\bin\roslyn\System.Console.dll
+I:\BooksStore\BooksStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+I:\BooksStore\BooksStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\BooksStore\BooksStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\BooksStore\BooksStore\bin\roslyn\System.Globalization.Calendars.dll
+I:\BooksStore\BooksStore\bin\roslyn\System.IO.Compression.dll
+I:\BooksStore\BooksStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+I:\BooksStore\BooksStore\bin\roslyn\System.IO.FileSystem.dll
+I:\BooksStore\BooksStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\BooksStore\BooksStore\bin\roslyn\System.Net.Http.dll
+I:\BooksStore\BooksStore\bin\roslyn\System.Net.Sockets.dll
+I:\BooksStore\BooksStore\bin\roslyn\System.Reflection.Metadata.dll
+I:\BooksStore\BooksStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+I:\BooksStore\BooksStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\BooksStore\BooksStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\BooksStore\BooksStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\BooksStore\BooksStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\BooksStore\BooksStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\BooksStore\BooksStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+I:\BooksStore\BooksStore\bin\roslyn\System.ValueTuple.dll
+I:\BooksStore\BooksStore\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\BooksStore\BooksStore\bin\roslyn\System.Xml.XmlDocument.dll
+I:\BooksStore\BooksStore\bin\roslyn\System.Xml.XPath.dll
+I:\BooksStore\BooksStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\BooksStore\BooksStore\bin\roslyn\vbc.exe
+I:\BooksStore\BooksStore\bin\roslyn\vbc.exe.config
+I:\BooksStore\BooksStore\bin\roslyn\vbc.rsp
+I:\BooksStore\BooksStore\bin\roslyn\VBCSCompiler.exe
+I:\BooksStore\BooksStore\bin\roslyn\VBCSCompiler.exe.config
+I:\BooksStore\BooksStore\bin\Antlr3.Runtime.dll
+I:\BooksStore\BooksStore\bin\EntityFramework.dll
+I:\BooksStore\BooksStore\bin\EntityFramework.SqlServer.dll
+I:\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.Core.dll
+I:\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\BooksStore\BooksStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\BooksStore\BooksStore\bin\Microsoft.Owin.dll
+I:\BooksStore\BooksStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\BooksStore\BooksStore\bin\Microsoft.Owin.Security.Cookies.dll
+I:\BooksStore\BooksStore\bin\Microsoft.Owin.Security.dll
+I:\BooksStore\BooksStore\bin\Microsoft.Owin.Security.OAuth.dll
+I:\BooksStore\BooksStore\bin\Microsoft.Web.Infrastructure.dll
+I:\BooksStore\BooksStore\bin\Newtonsoft.Json.dll
+I:\BooksStore\BooksStore\bin\Owin.dll
+I:\BooksStore\BooksStore\bin\System.Web.Helpers.dll
+I:\BooksStore\BooksStore\bin\System.Web.Mvc.dll
+I:\BooksStore\BooksStore\bin\System.Web.Optimization.dll
+I:\BooksStore\BooksStore\bin\System.Web.Razor.dll
+I:\BooksStore\BooksStore\bin\System.Web.WebPages.Deployment.dll
+I:\BooksStore\BooksStore\bin\System.Web.WebPages.dll
+I:\BooksStore\BooksStore\bin\System.Web.WebPages.Razor.dll
+I:\BooksStore\BooksStore\bin\WebGrease.dll
+I:\BooksStore\BooksStore\bin\EntityFramework.xml
+I:\BooksStore\BooksStore\bin\EntityFramework.SqlServer.xml
+I:\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.Core.xml
+I:\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\BooksStore\BooksStore\bin\Microsoft.Owin.xml
+I:\BooksStore\BooksStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\BooksStore\BooksStore\bin\Microsoft.Owin.Security.xml
+I:\BooksStore\BooksStore\bin\Microsoft.Owin.Security.Cookies.xml
+I:\BooksStore\BooksStore\bin\Microsoft.Owin.Security.OAuth.xml
+I:\BooksStore\BooksStore\bin\System.Web.Helpers.xml
+I:\BooksStore\BooksStore\bin\System.Web.Mvc.xml
+I:\BooksStore\BooksStore\bin\System.Web.Optimization.xml
+I:\BooksStore\BooksStore\bin\System.Web.Razor.xml
+I:\BooksStore\BooksStore\bin\System.Web.WebPages.xml
+I:\BooksStore\BooksStore\bin\System.Web.WebPages.Deployment.xml
+I:\BooksStore\BooksStore\bin\System.Web.WebPages.Razor.xml
+I:\BooksStore\BooksStore\bin\Newtonsoft.Json.xml
+I:\BooksStore\BooksStore\bin\Antlr3.Runtime.pdb
+I:\BooksStore\BooksStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\BooksStore\BooksStore\bin\zh-Hans\EntityFramework.resources.dll
+I:\BooksStore\BooksStore\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+I:\BooksStore\BooksStore\bin\zh-Hans\System.Web.Helpers.resources.dll
+I:\BooksStore\BooksStore\bin\zh-Hans\System.Web.Mvc.resources.dll
+I:\BooksStore\BooksStore\bin\zh-Hans\System.Web.Optimization.resources.dll
+I:\BooksStore\BooksStore\bin\zh-Hans\System.Web.Razor.resources.dll
+I:\BooksStore\BooksStore\bin\zh-Hans\System.Web.WebPages.resources.dll
+I:\BooksStore\BooksStore\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+I:\BooksStore\BooksStore\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+I:\BooksStore\BooksStore\obj\Debug\BooksStore.csprojAssemblyReference.cache
+I:\BooksStore\BooksStore\obj\Debug\BooksStore.csproj.CoreCompileInputs.cache
+I:\BooksStore\BooksStore\obj\Debug\BooksStore.csproj.CopyComplete
+I:\BooksStore\BooksStore\obj\Debug\BooksStore.dll
+I:\BooksStore\BooksStore\obj\Debug\BooksStore.pdb
+G:\BooksStore\BooksStore\obj\Debug\BooksStore.csprojResolveAssemblyReference.cache
+G:\BooksStore\BooksStore\obj\Debug\BooksStore.dll
+G:\BooksStore\BooksStore\obj\Debug\BooksStore.pdb
+F:\BooksStore\BooksStore\bin\BooksStore.dll.config
+F:\BooksStore\BooksStore\bin\BooksStore.dll
+F:\BooksStore\BooksStore\bin\BooksStore.pdb
+F:\BooksStore\BooksStore\bin\roslyn\csc.exe
+F:\BooksStore\BooksStore\bin\roslyn\csc.exe.config
+F:\BooksStore\BooksStore\bin\roslyn\csc.rsp
+F:\BooksStore\BooksStore\bin\roslyn\csi.exe
+F:\BooksStore\BooksStore\bin\roslyn\csi.exe.config
+F:\BooksStore\BooksStore\bin\roslyn\csi.rsp
+F:\BooksStore\BooksStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\BooksStore\BooksStore\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\BooksStore\BooksStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\BooksStore\BooksStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\BooksStore\BooksStore\bin\roslyn\Microsoft.Managed.Core.targets
+F:\BooksStore\BooksStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\BooksStore\BooksStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\BooksStore\BooksStore\bin\roslyn\System.AppContext.dll
+F:\BooksStore\BooksStore\bin\roslyn\System.Collections.Immutable.dll
+F:\BooksStore\BooksStore\bin\roslyn\System.Console.dll
+F:\BooksStore\BooksStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\BooksStore\BooksStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\BooksStore\BooksStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\BooksStore\BooksStore\bin\roslyn\System.Globalization.Calendars.dll
+F:\BooksStore\BooksStore\bin\roslyn\System.IO.Compression.dll
+F:\BooksStore\BooksStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\BooksStore\BooksStore\bin\roslyn\System.IO.FileSystem.dll
+F:\BooksStore\BooksStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\BooksStore\BooksStore\bin\roslyn\System.Net.Http.dll
+F:\BooksStore\BooksStore\bin\roslyn\System.Net.Sockets.dll
+F:\BooksStore\BooksStore\bin\roslyn\System.Reflection.Metadata.dll
+F:\BooksStore\BooksStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\BooksStore\BooksStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\BooksStore\BooksStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\BooksStore\BooksStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\BooksStore\BooksStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\BooksStore\BooksStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\BooksStore\BooksStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\BooksStore\BooksStore\bin\roslyn\System.ValueTuple.dll
+F:\BooksStore\BooksStore\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\BooksStore\BooksStore\bin\roslyn\System.Xml.XmlDocument.dll
+F:\BooksStore\BooksStore\bin\roslyn\System.Xml.XPath.dll
+F:\BooksStore\BooksStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\BooksStore\BooksStore\bin\roslyn\vbc.exe
+F:\BooksStore\BooksStore\bin\roslyn\vbc.exe.config
+F:\BooksStore\BooksStore\bin\roslyn\vbc.rsp
+F:\BooksStore\BooksStore\bin\roslyn\VBCSCompiler.exe
+F:\BooksStore\BooksStore\bin\roslyn\VBCSCompiler.exe.config
+F:\BooksStore\BooksStore\bin\Antlr3.Runtime.dll
+F:\BooksStore\BooksStore\bin\EntityFramework.dll
+F:\BooksStore\BooksStore\bin\EntityFramework.SqlServer.dll
+F:\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.Core.dll
+F:\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\BooksStore\BooksStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\BooksStore\BooksStore\bin\Microsoft.Owin.dll
+F:\BooksStore\BooksStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\BooksStore\BooksStore\bin\Microsoft.Owin.Security.Cookies.dll
+F:\BooksStore\BooksStore\bin\Microsoft.Owin.Security.dll
+F:\BooksStore\BooksStore\bin\Microsoft.Owin.Security.OAuth.dll
+F:\BooksStore\BooksStore\bin\Microsoft.Web.Infrastructure.dll
+F:\BooksStore\BooksStore\bin\Newtonsoft.Json.dll
+F:\BooksStore\BooksStore\bin\Owin.dll
+F:\BooksStore\BooksStore\bin\System.Web.Helpers.dll
+F:\BooksStore\BooksStore\bin\System.Web.Mvc.dll
+F:\BooksStore\BooksStore\bin\System.Web.Optimization.dll
+F:\BooksStore\BooksStore\bin\System.Web.Razor.dll
+F:\BooksStore\BooksStore\bin\System.Web.WebPages.Deployment.dll
+F:\BooksStore\BooksStore\bin\System.Web.WebPages.dll
+F:\BooksStore\BooksStore\bin\System.Web.WebPages.Razor.dll
+F:\BooksStore\BooksStore\bin\WebGrease.dll
+F:\BooksStore\BooksStore\bin\EntityFramework.xml
+F:\BooksStore\BooksStore\bin\EntityFramework.SqlServer.xml
+F:\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.Core.xml
+F:\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\BooksStore\BooksStore\bin\Microsoft.Owin.xml
+F:\BooksStore\BooksStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\BooksStore\BooksStore\bin\Microsoft.Owin.Security.xml
+F:\BooksStore\BooksStore\bin\Microsoft.Owin.Security.Cookies.xml
+F:\BooksStore\BooksStore\bin\Microsoft.Owin.Security.OAuth.xml
+F:\BooksStore\BooksStore\bin\System.Web.Helpers.xml
+F:\BooksStore\BooksStore\bin\System.Web.Mvc.xml
+F:\BooksStore\BooksStore\bin\System.Web.Optimization.xml
+F:\BooksStore\BooksStore\bin\System.Web.Razor.xml
+F:\BooksStore\BooksStore\bin\System.Web.WebPages.xml
+F:\BooksStore\BooksStore\bin\System.Web.WebPages.Deployment.xml
+F:\BooksStore\BooksStore\bin\System.Web.WebPages.Razor.xml
+F:\BooksStore\BooksStore\bin\Newtonsoft.Json.xml
+F:\BooksStore\BooksStore\bin\Antlr3.Runtime.pdb
+F:\BooksStore\BooksStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\BooksStore\BooksStore\bin\zh-Hans\EntityFramework.resources.dll
+F:\BooksStore\BooksStore\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+F:\BooksStore\BooksStore\bin\zh-Hans\System.Web.Helpers.resources.dll
+F:\BooksStore\BooksStore\bin\zh-Hans\System.Web.Mvc.resources.dll
+F:\BooksStore\BooksStore\bin\zh-Hans\System.Web.Optimization.resources.dll
+F:\BooksStore\BooksStore\bin\zh-Hans\System.Web.Razor.resources.dll
+F:\BooksStore\BooksStore\bin\zh-Hans\System.Web.WebPages.resources.dll
+F:\BooksStore\BooksStore\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+F:\BooksStore\BooksStore\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+F:\BooksStore\BooksStore\obj\Debug\BooksStore.csprojAssemblyReference.cache
+F:\BooksStore\BooksStore\obj\Debug\BooksStore.csproj.CoreCompileInputs.cache
+F:\BooksStore\BooksStore\obj\Debug\BooksStore.csproj.CopyComplete
+F:\BooksStore\BooksStore\obj\Debug\BooksStore.dll
+F:\BooksStore\BooksStore\obj\Debug\BooksStore.pdb
+E:\BooksStore\BooksStore\bin\BooksStore.dll.config
+E:\BooksStore\BooksStore\bin\BooksStore.dll
+E:\BooksStore\BooksStore\bin\BooksStore.pdb
+E:\BooksStore\BooksStore\bin\roslyn\csc.exe
+E:\BooksStore\BooksStore\bin\roslyn\csc.exe.config
+E:\BooksStore\BooksStore\bin\roslyn\csc.rsp
+E:\BooksStore\BooksStore\bin\roslyn\csi.exe
+E:\BooksStore\BooksStore\bin\roslyn\csi.exe.config
+E:\BooksStore\BooksStore\bin\roslyn\csi.rsp
+E:\BooksStore\BooksStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\BooksStore\BooksStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\BooksStore\BooksStore\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\BooksStore\BooksStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\BooksStore\BooksStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\BooksStore\BooksStore\bin\roslyn\Microsoft.Managed.Core.targets
+E:\BooksStore\BooksStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\BooksStore\BooksStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\BooksStore\BooksStore\bin\roslyn\System.AppContext.dll
+E:\BooksStore\BooksStore\bin\roslyn\System.Collections.Immutable.dll
+E:\BooksStore\BooksStore\bin\roslyn\System.Console.dll
+E:\BooksStore\BooksStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\BooksStore\BooksStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\BooksStore\BooksStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\BooksStore\BooksStore\bin\roslyn\System.Globalization.Calendars.dll
+E:\BooksStore\BooksStore\bin\roslyn\System.IO.Compression.dll
+E:\BooksStore\BooksStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\BooksStore\BooksStore\bin\roslyn\System.IO.FileSystem.dll
+E:\BooksStore\BooksStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\BooksStore\BooksStore\bin\roslyn\System.Net.Http.dll
+E:\BooksStore\BooksStore\bin\roslyn\System.Net.Sockets.dll
+E:\BooksStore\BooksStore\bin\roslyn\System.Reflection.Metadata.dll
+E:\BooksStore\BooksStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\BooksStore\BooksStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\BooksStore\BooksStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\BooksStore\BooksStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\BooksStore\BooksStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\BooksStore\BooksStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\BooksStore\BooksStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\BooksStore\BooksStore\bin\roslyn\System.ValueTuple.dll
+E:\BooksStore\BooksStore\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\BooksStore\BooksStore\bin\roslyn\System.Xml.XmlDocument.dll
+E:\BooksStore\BooksStore\bin\roslyn\System.Xml.XPath.dll
+E:\BooksStore\BooksStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\BooksStore\BooksStore\bin\roslyn\vbc.exe
+E:\BooksStore\BooksStore\bin\roslyn\vbc.exe.config
+E:\BooksStore\BooksStore\bin\roslyn\vbc.rsp
+E:\BooksStore\BooksStore\bin\roslyn\VBCSCompiler.exe
+E:\BooksStore\BooksStore\bin\roslyn\VBCSCompiler.exe.config
+E:\BooksStore\BooksStore\bin\Antlr3.Runtime.dll
+E:\BooksStore\BooksStore\bin\EntityFramework.dll
+E:\BooksStore\BooksStore\bin\EntityFramework.SqlServer.dll
+E:\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.Core.dll
+E:\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\BooksStore\BooksStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\BooksStore\BooksStore\bin\Microsoft.Owin.dll
+E:\BooksStore\BooksStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\BooksStore\BooksStore\bin\Microsoft.Owin.Security.Cookies.dll
+E:\BooksStore\BooksStore\bin\Microsoft.Owin.Security.dll
+E:\BooksStore\BooksStore\bin\Microsoft.Owin.Security.OAuth.dll
+E:\BooksStore\BooksStore\bin\Microsoft.Web.Infrastructure.dll
+E:\BooksStore\BooksStore\bin\Newtonsoft.Json.dll
+E:\BooksStore\BooksStore\bin\Owin.dll
+E:\BooksStore\BooksStore\bin\System.Web.Helpers.dll
+E:\BooksStore\BooksStore\bin\System.Web.Mvc.dll
+E:\BooksStore\BooksStore\bin\System.Web.Optimization.dll
+E:\BooksStore\BooksStore\bin\System.Web.Razor.dll
+E:\BooksStore\BooksStore\bin\System.Web.WebPages.Deployment.dll
+E:\BooksStore\BooksStore\bin\System.Web.WebPages.dll
+E:\BooksStore\BooksStore\bin\System.Web.WebPages.Razor.dll
+E:\BooksStore\BooksStore\bin\WebGrease.dll
+E:\BooksStore\BooksStore\bin\EntityFramework.xml
+E:\BooksStore\BooksStore\bin\EntityFramework.SqlServer.xml
+E:\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.Core.xml
+E:\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\BooksStore\BooksStore\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\BooksStore\BooksStore\bin\Microsoft.Owin.xml
+E:\BooksStore\BooksStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\BooksStore\BooksStore\bin\Microsoft.Owin.Security.xml
+E:\BooksStore\BooksStore\bin\Microsoft.Owin.Security.Cookies.xml
+E:\BooksStore\BooksStore\bin\Microsoft.Owin.Security.OAuth.xml
+E:\BooksStore\BooksStore\bin\System.Web.Helpers.xml
+E:\BooksStore\BooksStore\bin\System.Web.Mvc.xml
+E:\BooksStore\BooksStore\bin\System.Web.Optimization.xml
+E:\BooksStore\BooksStore\bin\System.Web.Razor.xml
+E:\BooksStore\BooksStore\bin\System.Web.WebPages.xml
+E:\BooksStore\BooksStore\bin\System.Web.WebPages.Deployment.xml
+E:\BooksStore\BooksStore\bin\System.Web.WebPages.Razor.xml
+E:\BooksStore\BooksStore\bin\Newtonsoft.Json.xml
+E:\BooksStore\BooksStore\bin\Antlr3.Runtime.pdb
+E:\BooksStore\BooksStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\BooksStore\BooksStore\bin\zh-Hans\EntityFramework.resources.dll
+E:\BooksStore\BooksStore\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\BooksStore\BooksStore\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\BooksStore\BooksStore\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\BooksStore\BooksStore\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\BooksStore\BooksStore\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\BooksStore\BooksStore\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\BooksStore\BooksStore\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\BooksStore\BooksStore\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\BooksStore\BooksStore\obj\Debug\BooksStore.csprojAssemblyReference.cache
+E:\BooksStore\BooksStore\obj\Debug\BooksStore.csproj.CoreCompileInputs.cache
+E:\BooksStore\BooksStore\obj\Debug\BooksStore.csproj.CopyComplete
+E:\BooksStore\BooksStore\obj\Debug\BooksStore.dll
+E:\BooksStore\BooksStore\obj\Debug\BooksStore.pdb
